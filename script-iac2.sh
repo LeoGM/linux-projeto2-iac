@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Atualizacao..."
+echo "Atualizacao...."
 	apt-get update
 	apt-get upgrade -y
 
